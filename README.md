@@ -7,7 +7,7 @@
     }
 
 
-**I write code, collect bugs :D So, I'm kidding!**
+**I write code, collect bugs :D I'm kidding!**
 
 I love penguins ... CNU / Linux --- > ![linux](https://img.icons8.com/nolan/64/linux--v2.png)
 
