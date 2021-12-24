@@ -2,7 +2,7 @@
 
     int main()
     {
-    	std::cout << "Hello! I'm @MaybeRT-rt!" << std::endl;
+    	std::cout << "Hello! I'm @MaybeRT-rt!\n";
     	return 0;
     }
 
