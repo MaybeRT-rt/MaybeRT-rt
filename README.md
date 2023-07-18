@@ -1,4 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=100&color=A264F7&width=435&lines=Hello%2C+I'm+Liz-Mary.+;I'm+IOS-developer" alt="Typing SVG" /></a>
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeRT-rt&layout=compact&theme=tokyonight)](https://github.com/MaybeRT-rt/github-readme-stats)
