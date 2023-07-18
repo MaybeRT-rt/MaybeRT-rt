@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A264F7&width=435&lines=Hello%2C+I'm+Liz-Mary.+;I'm+IOS-developer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A264F7&width=435&lines=Hello%2C+I'm+Liz-Mary.+;I'm+IOS-developer" alt="Typing SVG" /></a>
 
 
 ### [MyHabits](https://github.com/MaybeRT-rt/MyHabits/tree/main)
