@@ -8,6 +8,7 @@
 * MVC, MVVM
 * Cocoapods, SPM
 * GCD
+* URLSession/Alamofire
 * Git
   
 ---
