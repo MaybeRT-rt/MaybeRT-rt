@@ -6,8 +6,8 @@
 
 * UIKit (NSLayoutConstraint, SnapKit)
 * MVC, MVVM
-* Cocoapods, SPM
 * GCD
+* Cocoapods, SPM
 * URLSession/Alamofire
 * Git
   
