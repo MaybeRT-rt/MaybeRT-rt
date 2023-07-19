@@ -2,7 +2,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeRT-rt&layout=compact&theme=tokyonight)](https://github.com/MaybeRT-rt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeRT-rt&layout=compact&theme=synthwave)](https://github.com/MaybeRT-rt/github-readme-stats)
 
 * UIKit (NSLayoutConstraint, SnapKit)
 * MVC, MVVM
