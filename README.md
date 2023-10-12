@@ -8,6 +8,7 @@
 * MVC, MVVM, Clean Swift(VIP)
 * GCD, NSOperation
 * URLSession/Alamofire
+* CoreData/Realm
 * Cocoapods, SPM
 * Git
   
