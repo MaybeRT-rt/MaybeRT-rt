@@ -46,5 +46,5 @@
 * URLSession
 * Realm
 
-<img align="left" src="https://github.com/MaybeRT-rt/gif/blob/main/Showreel_-Mobile-screens-_remix_.gif" width="960" height="720">
+<img align="left" src="https://github.com/MaybeRT-rt/gif/blob/main/Showreel_-Mobile-screens-_remix_.gif" width="360" height="220">
 
