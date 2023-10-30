@@ -29,8 +29,6 @@
 <img align="left" src="https://github.com/MaybeRT-rt/gif/blob/main/remove.gif" width="150" height="330">
 
 
-___
-
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## [Quotes]([https://github.com/MaybeRT-rt/Quotes])
