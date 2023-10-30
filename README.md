@@ -14,7 +14,7 @@
   
 ---
 
-## [MyHabits](https://github.com/MaybeRT-rt/MyHabits/tree/main)
+## [MyHabits](https://github.com/MaybeRT-rt/MyHabits/)
 
 ### Stack:
 * Swift 5
@@ -31,7 +31,7 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-## [Quotes]([https://github.com/MaybeRT-rt/Quotes])
+## [Quotes]([https://github.com/MaybeRT-rt/Quotes/])
 
 Приложение с цитатами Чака Норриса.
 
