@@ -31,11 +31,11 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-## [Quotes]([https://github.com/MaybeRT-rt/Quotes/])
+## [Quotes](https://github.com/MaybeRT-rt/Quotes/)
 
 Приложение с цитатами Чака Норриса.
 
-Stack:
+### Stack:
 
 * Swift 5
 * UIKit
