@@ -32,6 +32,11 @@
 ___
 
 
+
+
+
+
+
 ## [Quotes]([https://github.com/MaybeRT-rt/Quotes])
 
 Приложение с цитатами Чака Норриса.
