@@ -16,6 +16,8 @@
 
 ## [MyHabits](https://github.com/MaybeRT-rt/MyHabits/)
 
+Приложение правильных привычек.
+
 ### Stack:
 * Swift 5
 * UIKit
